@@ -1,0 +1,22 @@
+.nav-link4{
+    padding-top: 80px;
+}
+.nav1 h1{
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: 0.04em;
+    text-align: left;
+}
+
+.nav5{
+    width: 170px;
+    height: 145px;
+    /* padding: 25px 56px 24px 55px; */
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 2px solid #0000004D;
+    border-radius: 5px;
+}
