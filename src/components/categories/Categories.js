@@ -8,12 +8,12 @@ function Categories() {
     <>
     <div className="container">
       <div className="nav-link4">
-        <div className="nav1">
+        <div className="nav4">
           <img src={categories} alt="" />
           <h1>Browse By Category</h1>
         </div>
-        <div className="nav2">
-          <div className="nav5">
+        <div className="nav5">
+          <div className="nav6">
             <IoPhonePortraitOutline />
             <h5>Phones</h5>
           </div>
