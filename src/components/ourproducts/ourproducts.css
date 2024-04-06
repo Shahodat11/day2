@@ -1,1 +1,10 @@
-
+.nav7{
+    padding-top: 40px;
+}
+.nav8{
+    justify-content: end;
+    align-items: end;
+    text-align: end;
+    display: flex;
+    padding-top: 62px;
+}

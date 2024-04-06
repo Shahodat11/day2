@@ -4,6 +4,7 @@ import Headertop from './components/headertop/Headertop';
 import Navbar from './components/navbar/Navbar';
 import Main from './components/main/Main';
 import Categories from './components/categories/Categories';
+import OurProducts from './components/ourproducts/OurProducts';
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Navbar/>
       <Main/>
       <Categories/>
+      <OurProducts/>
     </div>
   );
 }
